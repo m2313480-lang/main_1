@@ -1,7 +1,7 @@
 ```markdown
  🥾 ShoeMaster Pro
 
-[![Code Quality](https://api.codiga.io/project/12345/score/svg)](https://app.codiga.io/hub/project/12345/dashboard)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/32ca7762fd4f41a6a8039ddc5b4cfb36)](https://app.codacy.com/gh/m2313480-lang/main_1/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 ShoeMaster Pro — комплексное веб-решение для автоматизации работы обувного магазина. Система предоставляет гибкие возможности управления товарным ассортиментом, заказами и пользователями с разграничением доступа по ролям.
 
